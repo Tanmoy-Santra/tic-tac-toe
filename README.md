@@ -1,4 +1,4 @@
-# Tic Tac Toe Game
+<h1 align="center"><a href="https://1tictactoe-game.netlify.app/" target="_blank">TicTacToe</a></h1><hr>
 
 A simple Tic Tac Toe game implemented using HTML, JavaScript, and CSS.
 
